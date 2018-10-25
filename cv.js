@@ -1,0 +1,1 @@
+alert("CLICK ON 'OK' BUTTON TO CONTINUE")
